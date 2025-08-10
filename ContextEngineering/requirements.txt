@@ -1,0 +1,14 @@
+torch>=2.0.0
+transformers>=4.30.0
+huggingface-hub>=0.15.0
+sentence-transformers>=2.2.2
+langchain_mistralai
+langchain-community
+langchain-tavily
+langchain>=0.3.25
+langchain-core>=0.3.59
+langgraph>=0.4.3
+langgraph-sdk>=0.1.66
+langgraph_bigtool
+langgraph-supervisor
+tavily-python
